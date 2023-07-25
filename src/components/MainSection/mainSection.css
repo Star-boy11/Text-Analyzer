@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.custom-card {
+  min-height: 100vh; /* Use min-height to cover the full viewport height */
+  border-radius: 0;
+}
+
+.big-placeholder {
+    height: 200px;
+    background-color: #ffffff;
+    margin: 20px 0;
+    color: black;
+    cursor: pointer;
+  }
+  
+
+.custom-button {
+  width: 150px;
+  margin: 10px;
+}
+
+  .custom-button img {
+    filter: invert(1); /* Invert the colors to turn the icons white */
+  }
+
