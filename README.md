@@ -1,14 +1,22 @@
 Text Analyzer App
+
+
 The Text Analyzer App is a simple React application that allows you to analyze the text and apply basic formatting effects. You can count the number of words and characters in the text and also format the text with the following options:
 
 Capitalize: Capitalize the first letter of the text.
+
 Bold: Make the text bold.
+
 Italic: Italicize the text.
+
 Uppercase: Convert the text to uppercase.
+
 Lowercase: Convert the text to lowercase.
+
 Copy to Clipboard: Copy the formatted text to the clipboard.
 
 How to Use
+
 Enter your text in the input area provided.
 The app will automatically display the number of words and characters in the text.
 To format the text, use the buttons provided below the input area.
@@ -20,10 +28,13 @@ Click on the "Lowercase" button to convert the text to lowercase.
 Click on the "Copy to Clipboard" button to copy the formatted text to the clipboard.
 
 Technologies Used
+
 React.js
+
 React Bootstrap
 
 Installation
+
 Clone this repository to your local machine.
 Navigate to the project directory in your terminal.
 Run npm install to install the dependencies.
